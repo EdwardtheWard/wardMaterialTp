@@ -1,0 +1,9 @@
+name: wardMaterialTp
+author: EdwardtheWard
+version: release_1.0
+main: com.edwardtheward.wardmaterialtp.Main
+commands:
+  wmtp:
+    description: Reloading configuration only.
+  wardmaterialtp:
+    description: Reloading configuration only.

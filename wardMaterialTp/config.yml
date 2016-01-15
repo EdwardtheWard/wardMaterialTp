@@ -1,0 +1,18 @@
+############################
+#==========================#
+#                          #
+#     wardBowTp Config     #
+#                          #
+#    By: EdwardtheWard     #
+#                          #
+#==========================#
+############################
+
+#In value of true or false, set if you want BowTp or not.
+bow-enabled: true
+
+#In value of true or false, set if you want SnowballTp or not.
+snowball-enabled: true
+
+#In value of true or false, set if you want EggTp or not.
+egg-enabled: true
